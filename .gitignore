@@ -1,4 +1,2 @@
 /node_modules
 /dist
-src/config/spotify.credentials.example.ts
-src/config/spotify.config.ts
