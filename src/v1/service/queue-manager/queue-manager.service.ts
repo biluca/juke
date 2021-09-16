@@ -5,7 +5,7 @@ import { QueueManagerGateway } from 'src/v1/domain/queue-manager/queue-manager.g
 import { InjectModel } from '@nestjs/mongoose';
 import { Model } from 'mongoose';
 import errorsCollection from 'src/v1/commons/errors.collection';
-import { SpotifyQueueService } from '../spotify-queue/spotify-queue.service';
+import { SpotifyQueueService } from '../spotify/spotify-queue.service';
 import { GenericError } from 'src/v1/commons/model/generic-error.model';
 
 @Injectable()

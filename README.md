@@ -49,6 +49,9 @@ $ npm run start:debug
 $ npm run start:prod
 ```
 
+## High Level Flow
+
+![High Level Flow](http://url/to/img.png)
 
 
 ## Stay in touch

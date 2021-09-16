@@ -9,11 +9,11 @@ import { QueueManagerController } from './controller/queue-manager/queue-manager
 
 
 // Services
-import { SpotifyAuthenticationService } from './service/spotify-authentication/spotify-authentication.service';
-import { SpotifyUserService } from './service/spotify-user/spotify-user.service';
-import { SpotifyPlayerService } from './service/spotify-player/spotify-player.service';
-import { SpotifySearchService } from './service/spotify-search/spotify-search.service';
-import { SpotifyQueueService } from './service/spotify-queue/spotify-queue.service';
+import { SpotifyAuthenticationService } from './service/spotify/spotify-authentication.service';
+import { SpotifyUserService } from './service/spotify/spotify-user.service';
+import { SpotifyPlayerService } from './service/spotify/spotify-player.service';
+import { SpotifySearchService } from './service/spotify/spotify-search.service';
+import { SpotifyQueueService } from './service/spotify/spotify-queue.service';
 
 @Module({
   'imports': [],

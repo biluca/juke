@@ -3,7 +3,7 @@ import { SearchGateway } from 'src/v1/domain/search/search.gateway';
 import spotify_config from '../../../config/spotify.config';
 import errorsCollection from '../../commons/errors.collection';
 import AsyncRequest from '../../commons/async-request.commons';
-import { SpotifySearchTrackConverter } from './spotify-search-track.converter';
+import { SpotifySearchTrackConverter } from './converters/spotify-search-track.converter';
 import { GenericError } from 'src/v1/commons/model/generic-error.model';
 
 @Injectable()

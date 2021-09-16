@@ -5,7 +5,7 @@ import { GenericError } from "../../commons/model/generic-error.model"
 import spotify_config from '../../../config/spotify.config';
 import errorsCollection from '../../commons/errors.collection';
 import AsyncRequest from '../../commons/async-request.commons';
-import { SpotifyDeviceConverter } from './spotify-device.converter';
+import { SpotifyDeviceConverter } from './converters/spotify-device.converter';
 
 @Injectable()
 export class SpotifyUserService implements UserGateway {

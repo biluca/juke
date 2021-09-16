@@ -1,7 +1,7 @@
 import { Controller, Get, Query, Req, Res, } from '@nestjs/common';
 import { GenericController } from '../../commons/controller.commons'
 import { AuthenticationUseCase } from '../../domain/authentication/authentication.usecase'
-import { SpotifyAuthenticationService } from '../../service/spotify-authentication/spotify-authentication.service'
+import { SpotifyAuthenticationService } from '../../service/spotify/spotify-authentication.service'
 import { Request, Response } from 'express'
 import spotify_config from '../../../config/spotify.config';
 import { request } from 'http';
