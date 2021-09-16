@@ -1,1 +1,0 @@
-{"version":3,"file":"spotify-track.model.js","sourceRoot":"","sources":["../../../../../src/v1/domain/search/model/spotify-track.model.ts"],"names":[],"mappings":";;;AAAA,MAAa,YAAY;IAUvB,MAAM,CAAC,gBAAgB,CAAC,CAAC,EAAE,CAAC;QAC1B,OAAO,CAAC,CAAC,UAAU,GAAG,CAAC,CAAC,UAAU,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;IAC9C,CAAC;CAEF;AAdD,oCAcC"}
