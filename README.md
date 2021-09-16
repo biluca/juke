@@ -56,5 +56,5 @@ $ npm run start:prod
 
 ## Stay in touch
 
-- Author - [Vinicios Biluca](https://gitlab.com/vinicios.biluca)
+- Author - [Vinicios Biluca](https://github.com/biluca)
 
