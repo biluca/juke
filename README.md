@@ -51,7 +51,7 @@ $ npm run start:prod
 
 ## High Level Flow
 
-![High Level Flow](http://url/to/img.png)
+![High Level Flow](https://github.com/biluca/juke/blob/master/docs/flows/juke-flow-v1.png)
 
 
 ## Stay in touch
