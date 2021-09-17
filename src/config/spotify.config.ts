@@ -3,7 +3,8 @@ export default {
     nounce_state_key_lenght: 32,
     endpoints: {
         authorize: {
-            uri: 'https://accounts.spotify.com/authorize?'
+            uri: 'https://accounts.spotify.com/authorize?',
+            method: ''
         },
         token: {
             uri: 'https://accounts.spotify.com/api/token',

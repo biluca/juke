@@ -1,7 +1,7 @@
 export default {
     credentials: {
-        client_id: '4b187ee204154ac58c729c4ad0792a3d',
-        client_secret: '2180b0ed43c049859c716678ed5c1d37',
+        client_id: '',
+        client_secret: '',
         redirect_uri: 'http://localhost:3000/jukeapi/v1/auth/callback',
         scope:
             [

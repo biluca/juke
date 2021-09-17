@@ -1,6 +1,6 @@
 import { Controller, Get, Query, Req, Res } from '@nestjs/common';
 import { GenericController } from 'src/v1/commons/controller.commons';
-import { SpotifySearchService } from 'src/v1/service/spotify-search/spotify-search.service';
+import { SpotifySearchService } from 'src/v1/service/spotify/spotify-search.service';
 import { SearchUseCase } from 'src/v1/domain/search/search.usecase';
 import { Request, Response } from 'express'
 
